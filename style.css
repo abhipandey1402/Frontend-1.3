@@ -1,0 +1,7 @@
+*{
+    margin: 0px;
+}
+
+div > img{
+    height: 500px;
+}
